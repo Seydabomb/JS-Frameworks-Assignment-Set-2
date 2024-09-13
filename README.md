@@ -22,6 +22,8 @@ Created an "Elegant Context" shopping app
 
 ## Section 11
 
+Created a "Placepicker" app where you can select places you want to visit
+
 ## Section 12
 
 ## Section 13

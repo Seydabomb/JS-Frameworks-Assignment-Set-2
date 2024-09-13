@@ -24,6 +24,8 @@ Created an "Elegant Context" shopping app
 
 Created a "Placepicker" app where you can select places you want to visit
 
+- The places are sorted with the ones closest to your location first
+
 ## Section 12
 
 ## Section 13

@@ -12,8 +12,13 @@ Created a "Your Projects" app with a sidebar nav
 ## Section 10
 
 Created an "Elegant Context" shopping app
+(Getting rid of prop drilling using the context api from React)
+(Also used the reducer function from React)
 
 - You can add products to the shopping cart
+- You can edit the quantity in the cart
+- You can remove the product in the cart
+- "Checkout" just closes the cart in this demo
 
 ## Section 11
 

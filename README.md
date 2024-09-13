@@ -25,6 +25,7 @@ Created an "Elegant Context" shopping app
 Created a "Placepicker" app where you can select places you want to visit
 
 - The places are sorted with the ones closest to your location first
+- The places you selected are saved to local storage so when you revisit the site, your selected places are still there
 
 ## Section 12
 

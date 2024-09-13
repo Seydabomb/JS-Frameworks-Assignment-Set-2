@@ -1,9 +1,18 @@
-export default function DeleteConfirmation({ onConfirm, onCancel }) {
-	console.log("TIMER SET");
+import { useEffect } from "react";
 
-	setTimeout(() => {
-		onConfirm();
-	}, 3000);
+export default function DeleteConfirmation({ onConfirm, onCancel }) {
+	useEffect(() => {
+		console.log("Timer is set");
+		const timer = setTimeout(() => {
+			onConfirm();
+		}, 3000);
+
+		return () => {
+			console.log("Cleaning up the timer");
+			// stops the timer when the modal is removed from the DOM
+			clearTimeout(timer);
+		};
+	}, [onConfirm]);
 
 	return (
 		<div id="delete-confirmation">

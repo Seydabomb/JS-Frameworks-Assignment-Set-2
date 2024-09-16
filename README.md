@@ -47,5 +47,11 @@ Created a "Quiz" app that serves as a practice project to solidify concepts.
 - memo() from React
 - useCallback() from React
 - useMemo() from React
+- million.js for faster website
 
 ## Section 14
+
+"Users" app where you practice learning class-based components vs functional components.
+
+- Search-bar where it goes through all the users and you can find them.
+- Error Boundaries

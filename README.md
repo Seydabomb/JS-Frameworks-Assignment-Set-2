@@ -26,6 +26,8 @@ Created a "Placepicker" app where you can select places you want to visit
 
 - The places are sorted with the ones closest to your location first
 - The places you selected are saved to local storage so when you revisit the site, your selected places are still there
+- A modal pops up when you click on a selected place, asking if you want to delete
+  - A 3 second timer & progress bar shows up and auto-deletes it.
 
 ## Section 12
 

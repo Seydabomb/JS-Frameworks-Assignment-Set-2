@@ -42,4 +42,10 @@ Created a "Quiz" app that serves as a practice project to solidify concepts.
 
 ## Section 13
 
+"React - Behind The Scenes" project. It is a basic counter project.
+
+- memo() from React
+- useCallback() from React
+- useMemo() from React
+
 ## Section 14

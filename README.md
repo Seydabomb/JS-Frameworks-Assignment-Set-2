@@ -31,6 +31,8 @@ Created a "Placepicker" app where you can select places you want to visit
 
 ## Section 12
 
+Created a "Quiz" app that serves as a practice project to solidify concepts.
+
 ## Section 13
 
 ## Section 14

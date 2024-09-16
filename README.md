@@ -33,6 +33,13 @@ Created a "Placepicker" app where you can select places you want to visit
 
 Created a "Quiz" app that serves as a practice project to solidify concepts.
 
+- timers
+- useEffect()
+- useState()
+- useCallback()
+- Effect dependencies
+- key={} in Quiz.jsx
+
 ## Section 13
 
 ## Section 14
